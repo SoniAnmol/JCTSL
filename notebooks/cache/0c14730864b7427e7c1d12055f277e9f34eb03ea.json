@@ -1,0 +1,1 @@
+{"version": 0.6, "generator": "Overpass API 0.7.60.6 e2dc3e5b", "osm3s": {"timestamp_osm_base": "2023-06-12T11:19:39Z", "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."}, "elements": [{"type": "node", "id": 3093841214, "lat": 26.9423426, "lon": 77.8199431, "tags": {"highway": "bus_stop", "name": "bus stop"}}]}
